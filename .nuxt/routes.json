@@ -1,0 +1,44 @@
+[
+  {
+    "name": "deportes",
+    "path": "/deportes",
+    "component": "C:\\\\Users\\\\jacks\\\\OneDrive\\\\Documentos\\\\Arquitectura de Informacion\\\\Tarea Noticias\\\\pages\\\\deportes\\\\index.vue",
+    "chunkName": "pages/deportes/index"
+  },
+  {
+    "name": "espectaculos",
+    "path": "/espectaculos",
+    "component": "C:\\\\Users\\\\jacks\\\\OneDrive\\\\Documentos\\\\Arquitectura de Informacion\\\\Tarea Noticias\\\\pages\\\\espectaculos\\\\index.vue",
+    "chunkName": "pages/espectaculos/index"
+  },
+  {
+    "name": "sucesos",
+    "path": "/sucesos",
+    "component": "C:\\\\Users\\\\jacks\\\\OneDrive\\\\Documentos\\\\Arquitectura de Informacion\\\\Tarea Noticias\\\\pages\\\\sucesos\\\\index.vue",
+    "chunkName": "pages/sucesos/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\jacks\\\\OneDrive\\\\Documentos\\\\Arquitectura de Informacion\\\\Tarea Noticias\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "deportes-slug",
+    "path": "/deportes/:slug",
+    "component": "C:\\\\Users\\\\jacks\\\\OneDrive\\\\Documentos\\\\Arquitectura de Informacion\\\\Tarea Noticias\\\\pages\\\\deportes\\\\_slug.vue",
+    "chunkName": "pages/deportes/_slug"
+  },
+  {
+    "name": "espectaculos-slug",
+    "path": "/espectaculos/:slug",
+    "component": "C:\\\\Users\\\\jacks\\\\OneDrive\\\\Documentos\\\\Arquitectura de Informacion\\\\Tarea Noticias\\\\pages\\\\espectaculos\\\\_slug.vue",
+    "chunkName": "pages/espectaculos/_slug"
+  },
+  {
+    "name": "sucesos-slug",
+    "path": "/sucesos/:slug",
+    "component": "C:\\\\Users\\\\jacks\\\\OneDrive\\\\Documentos\\\\Arquitectura de Informacion\\\\Tarea Noticias\\\\pages\\\\sucesos\\\\_slug.vue",
+    "chunkName": "pages/sucesos/_slug"
+  }
+]
